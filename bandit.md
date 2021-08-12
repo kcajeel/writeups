@@ -2,7 +2,7 @@
 title: OverTheWire Bandit
 author: by Jack
 date: 4/25/2021 to 5/1/2021
-...
+---
  
 # Bandit 0
  
