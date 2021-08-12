@@ -13,9 +13,9 @@ Each writeup contains a whole challenge, labs separated by challenge name and la
     # Bandit 1
     
 >### Current completed labs: [Bandit][Bandit-Link]  
->#### view my [writeup](github.com/kcajeel/overthewire/bandit)
+>#### view my [writeup](bandit.md)
 >### What I'm working on now: [Natas][Natas-Link]
->#### view my [writeup](github.com/kcajeel/overthewire/natas)
+>#### view my [writeup](natas.md)
 
 [Bandit-Link]: https://overthewire.org/wargames/bandit/
 [Natas-Link]: https://overthewire.org/wargames/natas/
