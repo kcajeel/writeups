@@ -549,6 +549,6 @@ This was a really fun (and challenging) activity, and I highly reccommend it for
 I've been using linux fairly consistently for the past 2-3 years and even I learned new stuff doing this lab.  
 If you're just starting out with linux, the first few labs are really good for teaching basic commands in a fun setting.  
 It does get quite challenging, so I would say to do as many labs as you can and don't get discouraged if one of them seems really hard.  
-For absolute beginners, I always reccommend [linux journey](https://www.linuxjourney.com).  
+For absolute beginners, I always reccommend [linux journey](https://notes.siira.io/).  
 That's all I really have to say, thanks for reading and stay lit  
 Jack  
