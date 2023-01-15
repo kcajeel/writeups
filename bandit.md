@@ -475,7 +475,7 @@ date: 4/25/2021 to 5/1/2021
 - `git show` only shows the initial commit of the readme.  
   - it's made by Ben Dover again lmaoo  
 - I was messing with `git rebase` and when I tried tab autocompleting it showed there's a "secret" branch  
-- I ran `%$ git branch secret` and then `$ git checkout secret` and catted the readme  
+- I ran `$ git branch secret` and then `$ git checkout secret` and catted the readme  
 - it's the same, but there's two new autocomplete options, heads/secret and tags/secret  
 - I ran `$ git show` on each of them, and it gave me a password-looking output when I ran   
   `$ git show tags/secret`  
